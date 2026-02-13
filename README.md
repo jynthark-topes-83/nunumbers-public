@@ -61,27 +61,12 @@ Earn your rank based on high score:
 
 ```
 nunumbers/
-├── index.html          # Main entry point
+├── index.html           # Main entry point
 ├── css/
-│   └── styles.css      # Game styling
+│   └── styles.css       # Game styling
 ├── js/
-│   ├── phaser3.min.js  # Phaser 3 framework
-│   └── game/
-│       ├── main.js     # Game initialization
-│       ├── prefabs/
-│       │   ├── animPixel.js   # Animated sprite helper
-│       │   └── global.js      # Global variables
-│       └── states/
-│           ├── boot.js        # Boot state
-│           ├── preload.js     # Asset loading
-│           ├── menu.js        # Main menu
-│           ├── play.js        # Play mode selector
-│           ├── arcade.js      # Main game logic
-│           ├── win.js         # Victory screen
-│           ├── gameover.js    # Game over screen
-│           ├── discovery.js   # Gallery/stats
-│           ├── help.js        # Help screen
-│           └── settings.js    # Settings screen
+│   ├── phaser3.min.js   # Phaser 3 framework
+│   └── nunumbers.min.js
 └── assets/              # Sprites, audio, images
 ```
 
