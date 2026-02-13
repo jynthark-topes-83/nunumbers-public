@@ -2,6 +2,8 @@
 
 A fast-paced arcade counting game built with Phaser 3. Test your visual counting skills through 30+ increasingly challenging levels!
 
+[![Play nunumbers now!](https://img.shields.io/badge/Play%20Now-Arcade%20Game-brightgreen?style=for-the-badge)](https://jynthark-topes-83.github.io/nunumbers-public)
+
 ## About
 
 **nunumbers** is an arcade-style counting game where players must quickly identify and count animated sprites on screen before time runs out. With each level, the difficulty increases with more items, more variety, and less time to think!
